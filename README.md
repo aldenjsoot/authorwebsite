@@ -1,2 +1,1 @@
-# authorwebsite
-Author website for Alden J. Soot
+# Alden J. Soot -  Author website
